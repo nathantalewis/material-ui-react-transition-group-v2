@@ -78,7 +78,7 @@
     "react-jss": "^8.1.0",
     "react-popper": "^0.7.4",
     "react-scrollbar-size": "^2.0.2",
-    "react-transition-group": "^2.2.1",
+    "react-transition-group-v2": "npm:react-transition-group@2.2.1",
     "recompose": "^0.26.0",
     "scroll": "^2.0.1",
     "warning": "^3.0.0"
